@@ -8,4 +8,4 @@ Used by Orbinuity apps for online data
 
 ## License
 
-Before copying any part of this project, please read the [LICENSE](./LICENSE) file to understand the terms and conditions.
+Before copying any part of this project, please read the [LICENSE](http://orbinuity.nl/LICENSE) file to understand the terms and conditions.
