@@ -1,9 +1,0 @@
-{
-    "homepage": "https://orbinuity.nl/project/DispenserSpear",
-    "promos": {
-        "1.21.11-latest": "v2.1+1.21.11-forge",
-        "1.21.11-recommended": "v2.1+1.21.11-forge",
-        "26.1-latest": "v2.1+26.1-forge",
-        "26.1-recommended": "v2.1+26.1-forge"
-    }
-}
